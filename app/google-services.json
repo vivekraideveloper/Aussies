@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "685882274956",
+    "firebase_url": "https://aussies-85f96.firebaseio.com",
+    "project_id": "aussies-85f96",
+    "storage_bucket": "aussies-85f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685882274956:android:cf55a7e774dbd2bf",
+        "android_client_info": {
+          "package_name": "com.vijayjaidewan01vivekrai.aussies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685882274956-dasojc4ruog61970238mn6od7kiugn8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vijayjaidewan01vivekrai.aussies",
+            "certificate_hash": "45a1e41e2f896f182ba5c93749644f82acc2fa3d"
+          }
+        },
+        {
+          "client_id": "685882274956-ebt3nes63tega274crrj99a2htlke91k.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "685882274956-ebt3nes63tega274crrj99a2htlke91k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR5oGxKV630i_ZAUGlETrVGZO9cWUyI00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685882274956-ebt3nes63tega274crrj99a2htlke91k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
